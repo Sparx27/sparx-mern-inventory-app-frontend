@@ -1,3 +1,2 @@
 # Sparx Inventory App
-
-Deployed in: https://sparxinventory.vercel.app/
+Watch project presentation: https://www.youtube.com/watch?v=h00AKmTtspk
